@@ -1,4 +1,6 @@
 # Shubhanshu Singh Fartyal
+📂 **[LinkedIn](www.linkedin.com/in/shubhanshu-singh-fartyal
+)** 
 **✉️ samsfartyal1001@gmail.com**
 
 ---
