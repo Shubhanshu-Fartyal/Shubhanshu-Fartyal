@@ -104,14 +104,17 @@ I'm particularly interested in turning raw datasets into **clear insights, inter
 ### 🎓 Education
 
 **B.Tech — Computer Science & Engineering (AI & ML)**
+
 Babu Banarasi Das Institute of Technology & Management, Lucknow
 **80% | 2022–2026**
 
 **Class 12 — ISC**
+
 Rani Laxmi Bai Memorial School, Lucknow
 **95% | 2022**
 
 **Class 10 — CISCE**
+
 Rani Laxmi Bai Memorial School, Lucknow
 **95% | 2020**
 
@@ -130,9 +133,11 @@ Rani Laxmi Bai Memorial School, Lucknow
 ### 👥 Leadership & Extra-Curriculars
 
 **Editor-in-Chief — Karmavesh Cultural Community**
+
 Led coordination, documentation, and execution of multiple college-wide events.
 
 **Social Media Manager — Binary Brains Technical Club**
+
 Managed outreach and engagement for technical events while coordinating across a cross-functional student team.
 
 ---
