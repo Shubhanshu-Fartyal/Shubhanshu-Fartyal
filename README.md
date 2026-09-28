@@ -1,7 +1,8 @@
 # Hi, I'm Shubhanshu Singh Fartyal 👋
 
-📊 **Data Analytics | Business Intelligence | AI & Automation**
-🎓 **Computer Science & Engineering (AI & ML)**
+**Data Analytics | Business Intelligence | AI & Automation**
+
+**Computer Science & Engineering (AI & ML)**
 
 📂 **[LinkedIn](https://www.linkedin.com/in/shubhanshu-singh-fartyal/)**
 ✉️ **[samsfartyal1001@gmail.com](mailto:samsfartyal1001@gmail.com)**
