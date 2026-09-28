@@ -130,11 +130,9 @@ Rani Laxmi Bai Memorial School, Lucknow
 ### 👥 Leadership & Extra-Curriculars
 
 **Editor-in-Chief — Karmavesh Cultural Community**
-
 Led coordination, documentation, and execution of multiple college-wide events.
 
 **Social Media Manager — Binary Brains Technical Club**
-
 Managed outreach and engagement for technical events while coordinating across a cross-functional student team.
 
 ---
