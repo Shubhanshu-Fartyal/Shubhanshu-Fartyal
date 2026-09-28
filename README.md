@@ -144,7 +144,7 @@ Managed outreach and engagement for technical events while coordinating across a
 
 ### 🌱 Currently Exploring
 
-**• Data Analytics • Business Intelligence • Python • SQL • Power BI • AI • Java •DSA**
+**• Data Analytics • Business Intelligence • Python • SQL • Power BI • AI • Java • DSA**
 
 I'm continuously building projects to strengthen my analytical and technical skills and explore how **data and AI can be used to solve real-world business problems**.
 
