@@ -1,11 +1,12 @@
 # Hi, I'm Shubhanshu Singh Fartyal 👋
 
-**Data Analytics | Business Intelligence | AI & Automation**
+**Data Analytics | Java Developer | AI & Automation**
 
 **Computer Science & Engineering (AI & ML)**
 
 📂 **[LinkedIn](https://www.linkedin.com/in/shubhanshu-singh-fartyal/)**
 ✉️ **[samsfartyal1001@gmail.com](mailto:samsfartyal1001@gmail.com)**
+🌐 **[Portfolio](https://animated-gumdrop-a2c4db.netlify.app)**
 
 ---
 
